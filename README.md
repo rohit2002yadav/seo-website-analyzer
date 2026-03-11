@@ -34,7 +34,7 @@ seo-website-analyzer
 Installation
 
 Clone the repository:
-git clone https://github.com/YOUR_USERNAME/seo-website-analyzer.git
+git clone https://github.com/rohit2002yadav/seo-website-analyzer.git
 
 Navigate into the project directory:
 cd seo-website-analyzer
